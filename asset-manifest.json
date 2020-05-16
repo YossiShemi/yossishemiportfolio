@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/yossishemiportfolio/static/css/main.6f2d849d.chunk.css",
+    "main.js": "/yossishemiportfolio/static/js/main.fc7ca400.chunk.js",
+    "main.js.map": "/yossishemiportfolio/static/js/main.fc7ca400.chunk.js.map",
+    "runtime-main.js": "/yossishemiportfolio/static/js/runtime-main.a19d1181.js",
+    "runtime-main.js.map": "/yossishemiportfolio/static/js/runtime-main.a19d1181.js.map",
+    "static/js/2.78f68fe0.chunk.js": "/yossishemiportfolio/static/js/2.78f68fe0.chunk.js",
+    "static/js/2.78f68fe0.chunk.js.map": "/yossishemiportfolio/static/js/2.78f68fe0.chunk.js.map",
+    "index.html": "/yossishemiportfolio/index.html",
+    "precache-manifest.c0fcdbec96fca612baa9484d2576a5d8.js": "/yossishemiportfolio/precache-manifest.c0fcdbec96fca612baa9484d2576a5d8.js",
+    "service-worker.js": "/yossishemiportfolio/service-worker.js",
+    "static/css/main.6f2d849d.chunk.css.map": "/yossishemiportfolio/static/css/main.6f2d849d.chunk.css.map",
+    "static/js/2.78f68fe0.chunk.js.LICENSE.txt": "/yossishemiportfolio/static/js/2.78f68fe0.chunk.js.LICENSE.txt",
+    "static/media/backgammonWeb.png": "/yossishemiportfolio/static/media/backgammonWeb.505a237c.png",
+    "static/media/contactMail.png": "/yossishemiportfolio/static/media/contactMail.d6d4086f.png",
+    "static/media/logo.png": "/yossishemiportfolio/static/media/logo.3aac835f.png",
+    "static/media/manOnTable.svg": "/yossishemiportfolio/static/media/manOnTable.52be3144.svg",
+    "static/media/working.jpg": "/yossishemiportfolio/static/media/working.16891745.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a19d1181.js",
+    "static/js/2.78f68fe0.chunk.js",
+    "static/css/main.6f2d849d.chunk.css",
+    "static/js/main.fc7ca400.chunk.js"
+  ]
+}
