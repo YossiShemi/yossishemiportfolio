@@ -17,21 +17,21 @@ export default function Projects() {
             
             <a className="linkProject"  href="https://yossishemi.github.io/backgammonWeb/#/" target="blank">
             <div className="project">
-            <img src={require("../../images/backgammonWeb.png")} className="projectImg"/> <br/>
+            <img src={require("../../images/backgammonWeb.png")} className="projectImg" alt="Project"/> <br/>
              <p> Backgammon Game </p> 
             </div>
             </a>
 
-            <a className="linkProject"  href="" target="blank">
+            <a className="linkProject"  href="/" target="blank">
             <div className="project">
-            <img src={require("../../images/workProject.png")} className="projectImg"/> <br/>
+            <img src={require("../../images/workProject.png")} className="projectImg" alt="Project"/> <br/>
              <p> Comming Soon</p> 
             </div>
             </a>
 
-            <a className="linkProject"  href="" target="blank">
+            <a className="linkProject"  href="/" target="blank">
             <div className="project">
-            <img src={require("../../images/workProject.png")} className="projectImg"/> <br/>
+            <img src={require("../../images/workProject.png")} className="projectImg" alt="Project"/> <br/>
              <p> Comming Soon</p> 
             </div>
             </a>

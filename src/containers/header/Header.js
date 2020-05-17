@@ -9,7 +9,7 @@ function Header() {
     <div>
       <header className="header">
 
-      <img src={require("../../images/logo.png")} className="logo"></img>
+      <img src={require("../../images/logo.png")} alt="Logo" className="logo"></img>
        
         <input className="menu-btn" type="checkbox" id="menu-btn" />
         <label className="menu-icon" htmlFor="menu-btn">

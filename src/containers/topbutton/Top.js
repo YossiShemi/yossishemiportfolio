@@ -24,6 +24,6 @@ export default function Top() {
 
     window.onload = function() {scrollFunction();}; //To make sure that this button is not visible at starting.    
     return (
-        <button onClick={TopEvent} id="topButton" title="Go to top"><i class="fas fa-chevron-circle-up" aria-hidden="true"></i></button>
+        <button onClick={TopEvent} id="topButton" title="Go to top"><i className="fas fa-chevron-circle-up" aria-hidden="true"></i></button>
         );
     }
