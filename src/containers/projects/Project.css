@@ -9,11 +9,12 @@
 /*title*/
 .project-title {
   font-size: 56px;
-  font-weight: 400;
+  font-weight: bold;
   line-height: normal;
   text-align: center;
-  text-decoration:underline ;
 }
+
+
 
 
 /*cards*/
@@ -23,22 +24,51 @@
   gap: 1rem 1rem;
 }
 
+.linkProject{
+  text-decoration: none;
+  color: black;
+}
+
+.linkProject:hover{
+  color:purple
+}
+.linkProject:visited{
+  color:black
+}
+.linkProject:active{
+  color:black
+}
+
 .project{
   text-align: center;
   font-size: 30px;
   padding: 10px;
+  border: 2px #ccc solid;
+  border-radius: 10px;
+  box-shadow: 5px 5px 20px #ccc;
+  font-weight: bold;
+  cursor: pointer;
 }
-.working{
+
+.project:hover{
+  box-shadow: 0px 10px 60px #e6e6ff   ;
+  margin:-2px;
+  color: #55198b
+}
+
+.projectImg{
   padding: 5px;
   width:300px;
   height: 250px;
+  border-radius: 35px;
 }
 
-.linkProject{
-  text-decoration: none;
-  color: purple;
-  font-weight: bold;
-}
+
+
+
+
+
+
 
 
 /* Media Query */
