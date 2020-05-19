@@ -1,4 +1,4 @@
-.main-button {
+.main-button2 {
   background-color: white;
   border: solid 3px #55198b;
   color: #55198b;
@@ -15,12 +15,12 @@
   font-size: 16px;
   cursor: pointer;
 }
-.main-button:hover {
+.main-button2:hover {
   background-color: #ffffff;
   color: black;
   transition: ease-in 0.3s;
 }
-.project-button{
+.project-button2{
   display: flex;
   justify-content: center;
   margin-top: 20px;
@@ -28,14 +28,14 @@
 }
 /* Media Query */
 @media (max-width: 768px) {
-  .main-button {
+  .main-button2 {
     font-size: 15px;
     padding: 12px 18px;
     margin-right: 0px;
   }
 }
 @media (max-width: 320px) {
-  .main-button {
+  .main-button2 {
     font-size: 12px;
   }
 }

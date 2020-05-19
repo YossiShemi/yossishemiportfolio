@@ -2,7 +2,7 @@
 import "./Greeting.css";
 import { greeting } from "../../portfolio";
 import SocialMedia from "../../components/socialMedia/SocialMedia";
-import Button from "../../components/button/Button";
+import Button2 from "../../components/button/Button2";
 import {Fade} from "react-reveal";
 import emoji from "react-easy-emoji";
 
@@ -30,8 +30,8 @@ export default function Greeting() {
             <SocialMedia />
             
             <div className="button-greeting-div">
-              <Button text="Contact me" href="#contact" />
-              <Button text="See my resume" newTab={true} href={greeting.resumeLink} />
+              <Button2 text="Contact me" href="#contact" />
+              <Button2 text="See my resume" newTab={true} href={greeting.resumeLink} />
             </div>
         </div>
 

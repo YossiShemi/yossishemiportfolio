@@ -24,8 +24,9 @@
   display: flex;
   justify-content: center;
   margin-top: 20px;
-
+  margin-left: 50px;
 }
+
 /* Media Query */
 @media (max-width: 768px) {
   .main-button {
@@ -34,8 +35,11 @@
     margin-right: 0px;
   }
 }
-@media (max-width: 320px) {
+@media (max-width: 375px) {
   .main-button {
     font-size: 12px;
+  }
+  .project-button{
+    margin-left: 0px;
   }
 }

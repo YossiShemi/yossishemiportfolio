@@ -1,6 +1,6 @@
 import React from "react";
-import "./Project.css";
-import Button2 from "../../components/button/Button2";
+import "./Projects.css";
+import Button from "../../components/button/Button";
 import { Fade } from "react-reveal";
 
 
@@ -40,7 +40,7 @@ export default function Projects() {
 
         </div>
 
-        <Button2 text={"More Projects"} className="project-button" href="https://github.com/YossiShemi" newTab={true}  />
+        <Button text={"More Projects"} className="project-button" href="https://github.com/YossiShemi" newTab={true}  />
     </div>
 
     </Fade>
