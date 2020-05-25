@@ -1,26 +1,28 @@
 {
   "files": {
-    "main.css": "/yossishemiportfolio/static/css/main.761b2b82.chunk.css",
-    "main.js": "/yossishemiportfolio/static/js/main.2e1cc051.chunk.js",
-    "main.js.map": "/yossishemiportfolio/static/js/main.2e1cc051.chunk.js.map",
+    "main.css": "/yossishemiportfolio/static/css/main.65c2351b.chunk.css",
+    "main.js": "/yossishemiportfolio/static/js/main.b9c3601d.chunk.js",
+    "main.js.map": "/yossishemiportfolio/static/js/main.b9c3601d.chunk.js.map",
     "runtime-main.js": "/yossishemiportfolio/static/js/runtime-main.a19d1181.js",
     "runtime-main.js.map": "/yossishemiportfolio/static/js/runtime-main.a19d1181.js.map",
     "static/js/2.3605ac83.chunk.js": "/yossishemiportfolio/static/js/2.3605ac83.chunk.js",
     "static/js/2.3605ac83.chunk.js.map": "/yossishemiportfolio/static/js/2.3605ac83.chunk.js.map",
     "index.html": "/yossishemiportfolio/index.html",
-    "precache-manifest.85fbf687dc666816f3f46dc026dadb48.js": "/yossishemiportfolio/precache-manifest.85fbf687dc666816f3f46dc026dadb48.js",
+    "precache-manifest.feede3785b2719748a7dea749ecf5210.js": "/yossishemiportfolio/precache-manifest.feede3785b2719748a7dea749ecf5210.js",
     "service-worker.js": "/yossishemiportfolio/service-worker.js",
-    "static/css/main.761b2b82.chunk.css.map": "/yossishemiportfolio/static/css/main.761b2b82.chunk.css.map",
+    "static/css/main.65c2351b.chunk.css.map": "/yossishemiportfolio/static/css/main.65c2351b.chunk.css.map",
     "static/js/2.3605ac83.chunk.js.LICENSE.txt": "/yossishemiportfolio/static/js/2.3605ac83.chunk.js.LICENSE.txt",
-    "static/media/backgammonWeb.png": "/yossishemiportfolio/static/media/backgammonWeb.505a237c.png",
+    "static/media/backgammonWeb.png": "/yossishemiportfolio/static/media/backgammonWeb.27a42184.png",
     "static/media/contactMail.png": "/yossishemiportfolio/static/media/contactMail.d6d4086f.png",
     "static/media/logo.png": "/yossishemiportfolio/static/media/logo.3aac835f.png",
-    "static/media/manOnTable.svg": "/yossishemiportfolio/static/media/manOnTable.52be3144.svg"
+    "static/media/manOnTable.svg": "/yossishemiportfolio/static/media/manOnTable.52be3144.svg",
+    "static/media/Projects.css": "/yossishemiportfolio/static/media/projectBG.4e3342cd.png",
+    "static/media/workProject.png": "/yossishemiportfolio/static/media/workProject.0bd11ccf.png"
   },
   "entrypoints": [
     "static/js/runtime-main.a19d1181.js",
     "static/js/2.3605ac83.chunk.js",
-    "static/css/main.761b2b82.chunk.css",
-    "static/js/main.2e1cc051.chunk.js"
+    "static/css/main.65c2351b.chunk.css",
+    "static/js/main.b9c3601d.chunk.js"
   ]
 }

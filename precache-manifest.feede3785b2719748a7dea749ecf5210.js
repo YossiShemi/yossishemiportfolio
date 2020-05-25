@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0ccf2eed67bb061257c757069dee422f",
+    "revision": "a489cbdefb8ad6d8e8270a74a7ab1651",
     "url": "/yossishemiportfolio/index.html"
   },
   {
-    "revision": "854c9dae5e5924b00bac",
-    "url": "/yossishemiportfolio/static/css/main.761b2b82.chunk.css"
+    "revision": "d824953b18d53b157f95",
+    "url": "/yossishemiportfolio/static/css/main.65c2351b.chunk.css"
   },
   {
     "revision": "b7134252bd9d8392d0e0",
@@ -16,16 +16,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/yossishemiportfolio/static/js/2.3605ac83.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "854c9dae5e5924b00bac",
-    "url": "/yossishemiportfolio/static/js/main.2e1cc051.chunk.js"
+    "revision": "d824953b18d53b157f95",
+    "url": "/yossishemiportfolio/static/js/main.b9c3601d.chunk.js"
   },
   {
     "revision": "2ac17f67c5f8648da7b9",
     "url": "/yossishemiportfolio/static/js/runtime-main.a19d1181.js"
   },
   {
-    "revision": "505a237c20e794dca339f23ae14970a1",
-    "url": "/yossishemiportfolio/static/media/backgammonWeb.505a237c.png"
+    "revision": "27a421843ffee71cd8931dd7f32475be",
+    "url": "/yossishemiportfolio/static/media/backgammonWeb.27a42184.png"
   },
   {
     "revision": "d6d4086fb1cade58b3f786620e17c3ef",
@@ -38,5 +38,13 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "52be31441c8cf8a8a16bd7a228d428bf",
     "url": "/yossishemiportfolio/static/media/manOnTable.52be3144.svg"
+  },
+  {
+    "revision": "4e3342cd641deba3d69dc77df4714922",
+    "url": "/yossishemiportfolio/static/media/projectBG.4e3342cd.png"
+  },
+  {
+    "revision": "0bd11ccf67413a78bacbe0e80fe2012a",
+    "url": "/yossishemiportfolio/static/media/workProject.0bd11ccf.png"
   }
 ]);
