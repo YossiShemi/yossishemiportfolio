@@ -20,13 +20,12 @@
 /*cards*/
 .repo-cards-div-main {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
   gap: 1rem 1rem;
 }
 
-.linkProject{
+.linkProject {
   text-decoration: none;
-  color: black;
 }
 
 .linkProject:hover{
@@ -48,22 +47,34 @@
   box-shadow: 5px 5px 20px #ccc;
   font-weight: bold;
   cursor: pointer;
-  background-image: url('../../images/projectBG.png');
+  background-image: url('../../images/projectBG.jpg');
   background-size: cover;
   background-position: center;
+  -webkit-text-fill-color: white; /* Will override color (regardless of order) */
+  -webkit-text-stroke-width: 1.5px;
+  -webkit-text-stroke-color:  #55198b;
+  font-weight: bolder;
+  text-shadow: 2px 2px black;
+
 }
 
 
 .project:hover{
   box-shadow: 0px 15px 25px #ccc   ;
   margin:-2px;
-  color: #55198b
+  -webkit-text-fill-color: #55198b; /* Will override color (regardless of order) */
+  -webkit-text-stroke-width: 0.1px;
+  -webkit-text-stroke-color:  white;
+
 }
 
+
+
 .projectImg{
-  width:350px;
+  width:95%;
   height: 250px;
   border-radius: 25px;
+
 }
 
 
@@ -87,5 +98,11 @@
   }
   .repo-cards-div-main{
     grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  }
+  .projectImg{
+    width:95%;
+    height: 200px;
+    border-radius: 25px;
+  
   }
 }
