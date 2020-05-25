@@ -48,19 +48,22 @@
   box-shadow: 5px 5px 20px #ccc;
   font-weight: bold;
   cursor: pointer;
+  background-image: url('../../images/projectBG.png');
+  background-size: cover;
+  background-position: center;
 }
 
+
 .project:hover{
-  box-shadow: 0px 10px 20px black   ;
+  box-shadow: 0px 15px 25px #ccc   ;
   margin:-2px;
   color: #55198b
 }
 
 .projectImg{
-  padding: 5px;
-  width:300px;
+  width:350px;
   height: 250px;
-  border-radius: 35px;
+  border-radius: 25px;
 }
 
 
