@@ -7,7 +7,7 @@ import { Fade } from "react-reveal";
 export default function Projects() {
   return (
 
-    <Fade bottom duration={1000} distance="20px">
+    <Fade top duration={2000} distance="100px">
 
     <div className="main" id="projects">
       
