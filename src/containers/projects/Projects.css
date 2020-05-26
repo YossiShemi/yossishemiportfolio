@@ -21,7 +21,7 @@
 .repo-cards-div-main {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
-  gap: 1rem 1rem;
+  gap: 0.5rem 0.5rem;
 }
 
 .linkProject {
@@ -47,14 +47,16 @@
   box-shadow: 5px 5px 20px #ccc;
   font-weight: bold;
   cursor: pointer;
-  background-image: url('../../images/projectBG.jpg');
-  background-size: cover;
-  background-position: center;
-  -webkit-text-fill-color: white; /* Will override color (regardless of order) */
-  -webkit-text-stroke-width: 1.5px;
-  -webkit-text-stroke-color:  #55198b;
+  background-image: url('../../images/projectBG.png');
+  background-size: contain;
+  background-position: 80%;
+  background-repeat: no-repeat;
+  background-position-y:0 ;
+  -webkit-text-fill-color: #55198b; /* Will override color (regardless of order) */
+  -webkit-text-stroke-width: 0.1px;
+  -webkit-text-stroke-color:  white;
   font-weight: bolder;
-  text-shadow: 2px 2px black;
+  text-shadow: 2px 2px #ccc;
 
 }
 
@@ -62,10 +64,7 @@
 .project:hover{
   box-shadow: 0px 15px 25px #ccc   ;
   margin:-2px;
-  -webkit-text-fill-color: #55198b; /* Will override color (regardless of order) */
-  -webkit-text-stroke-width: 0.1px;
-  -webkit-text-stroke-color:  white;
-
+  text-shadow: 2px 2px rgb(177, 108, 241);
 }
 
 
