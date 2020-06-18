@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/yossishemiportfolio/static/css/main.5c0378c9.chunk.css",
+    "main.css": "/yossishemiportfolio/static/css/main.a5c41bc4.chunk.css",
     "main.js": "/yossishemiportfolio/static/js/main.31fa30a1.chunk.js",
     "main.js.map": "/yossishemiportfolio/static/js/main.31fa30a1.chunk.js.map",
     "runtime-main.js": "/yossishemiportfolio/static/js/runtime-main.a19d1181.js",
@@ -8,9 +8,9 @@
     "static/js/2.3605ac83.chunk.js": "/yossishemiportfolio/static/js/2.3605ac83.chunk.js",
     "static/js/2.3605ac83.chunk.js.map": "/yossishemiportfolio/static/js/2.3605ac83.chunk.js.map",
     "index.html": "/yossishemiportfolio/index.html",
-    "precache-manifest.5952b6ff5d8a9c7379e739ae1946a8f3.js": "/yossishemiportfolio/precache-manifest.5952b6ff5d8a9c7379e739ae1946a8f3.js",
+    "precache-manifest.995a699f828fb4ee5df756bf36359d9c.js": "/yossishemiportfolio/precache-manifest.995a699f828fb4ee5df756bf36359d9c.js",
     "service-worker.js": "/yossishemiportfolio/service-worker.js",
-    "static/css/main.5c0378c9.chunk.css.map": "/yossishemiportfolio/static/css/main.5c0378c9.chunk.css.map",
+    "static/css/main.a5c41bc4.chunk.css.map": "/yossishemiportfolio/static/css/main.a5c41bc4.chunk.css.map",
     "static/js/2.3605ac83.chunk.js.LICENSE.txt": "/yossishemiportfolio/static/js/2.3605ac83.chunk.js.LICENSE.txt",
     "static/media/backgammonProject.png": "/yossishemiportfolio/static/media/backgammonProject.27a42184.png",
     "static/media/contactMail.png": "/yossishemiportfolio/static/media/contactMail.d6d4086f.png",
@@ -22,7 +22,7 @@
   "entrypoints": [
     "static/js/runtime-main.a19d1181.js",
     "static/js/2.3605ac83.chunk.js",
-    "static/css/main.5c0378c9.chunk.css",
+    "static/css/main.a5c41bc4.chunk.css",
     "static/js/main.31fa30a1.chunk.js"
   ]
 }
