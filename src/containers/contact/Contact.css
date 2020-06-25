@@ -13,6 +13,8 @@
     flex: 1;
 }
 
+  
+
 
 
 
@@ -53,17 +55,44 @@
     transition: all 0.3s;
 }
 
-
-
-
 /*image*/
 
-.contact-image-div img {
-    max-width: 100%;
-    height: auto;
-    margin-right: 1.5rem;
-    margin-top: -1rem;
+.galaxy{
+    margin-left: 150px;
+    padding: 50px;
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+    animation-name: shake;
+    display: inline-block;
+    transform-origin: 70% 70%;  
 }
+
+
+@keyframes shake {
+    0% {
+      transform: rotate(0deg);
+    }
+    10% {
+      transform: rotate(-1.5deg);
+    }
+    20% {
+      transform: rotate(1.5deg);
+    }
+    30% {
+      transform: rotate(-1.5deg);
+    }
+    40% {
+      transform: rotate(1deg);
+    }
+    50% {
+      transform: rotate(0deg);
+    }
+    100% {
+      transform: rotate(0deg);
+    }
+  }
+
+
 
 
 

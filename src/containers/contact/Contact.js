@@ -14,7 +14,7 @@ export default function Contact() {
             <div className="contact-div-main">
                 
             <div className="contact-image-div">
-                    <img alt="Saad Working" src={require("../../images/contactMail.png")}></img>
+                    <img alt="iphone" src={require("../../images/galaxy.png")} className="galaxy"></img>
                 </div>
                 
                 <div className="contact-header">
