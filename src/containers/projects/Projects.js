@@ -15,7 +15,7 @@ export default function Projects() {
 
         <div className="repo-cards-div-main">
             
-            <a className="linkProject"  href="https://yossishemi.github.io/backgammonWeb/#/" target="blank">
+            <a className="linkProject"  href="https://backgammonwebclient.herokuapp.com/#/" target="blank">
             <div className="project">
             <img src={require("../../images/backgammonProject.png")} className="projectImg" alt="Project"/> <br/>
              <p className="textProject"> <i class="fas fa-dice"></i>  Backgammon Game </p> 
