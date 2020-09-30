@@ -22,10 +22,10 @@ export default function Projects() {
             </div>
             </a>
 
-            <a className="linkProject"  href="/" target="blank">
+            <a className="linkProject"  href="https://couponsprojectpart3client.herokuapp.com/homepage" target="blank">
             <div className="project">
-            <img src={require("../../images/workProject.png")} className="projectImg" alt="Project"/> <br/>
-             <p className="textProject"> <i class="fas fa-laptop-code"></i> Comming Soon...</p> 
+            <img src={require("../../images/couponSystemProject.png")} className="projectImg couponProject" alt="Project"/> <br/>
+             <p className="textProject"> <i class="fas fa-tags"></i> Coupon System</p> 
             </div>
             </a>
 

@@ -76,6 +76,12 @@
   height: 250px;
 }
 
+.couponProject{
+  border: 4px white solid;
+  border-radius: 15px;
+  box-shadow: 0 0 15px white;
+}
+
 
 
 
