@@ -1,18 +1,19 @@
 {
   "files": {
-    "main.css": "/yossishemiportfolio/static/css/main.5481d53a.chunk.css",
-    "main.js": "/yossishemiportfolio/static/js/main.f735d85d.chunk.js",
-    "main.js.map": "/yossishemiportfolio/static/js/main.f735d85d.chunk.js.map",
+    "main.css": "/yossishemiportfolio/static/css/main.3538e1b0.chunk.css",
+    "main.js": "/yossishemiportfolio/static/js/main.f3967c35.chunk.js",
+    "main.js.map": "/yossishemiportfolio/static/js/main.f3967c35.chunk.js.map",
     "runtime-main.js": "/yossishemiportfolio/static/js/runtime-main.a19d1181.js",
     "runtime-main.js.map": "/yossishemiportfolio/static/js/runtime-main.a19d1181.js.map",
-    "static/js/2.3605ac83.chunk.js": "/yossishemiportfolio/static/js/2.3605ac83.chunk.js",
-    "static/js/2.3605ac83.chunk.js.map": "/yossishemiportfolio/static/js/2.3605ac83.chunk.js.map",
+    "static/js/2.77176816.chunk.js": "/yossishemiportfolio/static/js/2.77176816.chunk.js",
+    "static/js/2.77176816.chunk.js.map": "/yossishemiportfolio/static/js/2.77176816.chunk.js.map",
     "index.html": "/yossishemiportfolio/index.html",
-    "precache-manifest.0e4e75efa41115aeb16d2dc3f0aeb7b4.js": "/yossishemiportfolio/precache-manifest.0e4e75efa41115aeb16d2dc3f0aeb7b4.js",
+    "precache-manifest.37275c4d5f3cb702f2bd796e20f6d439.js": "/yossishemiportfolio/precache-manifest.37275c4d5f3cb702f2bd796e20f6d439.js",
     "service-worker.js": "/yossishemiportfolio/service-worker.js",
-    "static/css/main.5481d53a.chunk.css.map": "/yossishemiportfolio/static/css/main.5481d53a.chunk.css.map",
-    "static/js/2.3605ac83.chunk.js.LICENSE.txt": "/yossishemiportfolio/static/js/2.3605ac83.chunk.js.LICENSE.txt",
+    "static/css/main.3538e1b0.chunk.css.map": "/yossishemiportfolio/static/css/main.3538e1b0.chunk.css.map",
+    "static/js/2.77176816.chunk.js.LICENSE.txt": "/yossishemiportfolio/static/js/2.77176816.chunk.js.LICENSE.txt",
     "static/media/backgammonProject.png": "/yossishemiportfolio/static/media/backgammonProject.27a42184.png",
+    "static/media/couponSystemProject.png": "/yossishemiportfolio/static/media/couponSystemProject.0df134ac.png",
     "static/media/galaxy.png": "/yossishemiportfolio/static/media/galaxy.649a629b.png",
     "static/media/logo.png": "/yossishemiportfolio/static/media/logo.3aac835f.png",
     "static/media/manOnTable.svg": "/yossishemiportfolio/static/media/manOnTable.52be3144.svg",
@@ -21,8 +22,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.a19d1181.js",
-    "static/js/2.3605ac83.chunk.js",
-    "static/css/main.5481d53a.chunk.css",
-    "static/js/main.f735d85d.chunk.js"
+    "static/js/2.77176816.chunk.js",
+    "static/css/main.3538e1b0.chunk.css",
+    "static/js/main.f3967c35.chunk.js"
   ]
 }
