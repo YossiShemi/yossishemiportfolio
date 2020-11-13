@@ -5,7 +5,7 @@ import emoji from "react-easy-emoji";
 const greeting = {
   title: "Hi all, I'm Yossi ",
   subTitle: emoji(" 💻 Junior Full Stack Developer 📚 - familliar with Java | Spring | Angular | Node.js | React.js | HTML | CSS | JS | MySQL | MongoDB | Git+ Github | and other cool frameworks and design patterns 🚀 "),
-  resumeLink: "https://drive.google.com/file/d/17G4htNizWcocbc-K031i5oUYfiZ_OXSY/view?usp=sharing"
+  resumeLink: "https://drive.google.com/file/d/1WVVXsptDdQhqtdrzYHYRcDLvgnjW0jCi/view?usp=sharing"
 };
 
 
