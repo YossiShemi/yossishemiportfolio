@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/yossishemiportfolio/static/css/main.3538e1b0.chunk.css",
-    "main.js": "/yossishemiportfolio/static/js/main.d126883b.chunk.js",
-    "main.js.map": "/yossishemiportfolio/static/js/main.d126883b.chunk.js.map",
+    "main.css": "/yossishemiportfolio/static/css/main.08a7e7ca.chunk.css",
+    "main.js": "/yossishemiportfolio/static/js/main.1e17f3a6.chunk.js",
+    "main.js.map": "/yossishemiportfolio/static/js/main.1e17f3a6.chunk.js.map",
     "runtime-main.js": "/yossishemiportfolio/static/js/runtime-main.a19d1181.js",
     "runtime-main.js.map": "/yossishemiportfolio/static/js/runtime-main.a19d1181.js.map",
     "static/js/2.77176816.chunk.js": "/yossishemiportfolio/static/js/2.77176816.chunk.js",
     "static/js/2.77176816.chunk.js.map": "/yossishemiportfolio/static/js/2.77176816.chunk.js.map",
     "index.html": "/yossishemiportfolio/index.html",
-    "precache-manifest.23e8e36ef0f96961ce8daf7e2ec4656b.js": "/yossishemiportfolio/precache-manifest.23e8e36ef0f96961ce8daf7e2ec4656b.js",
+    "precache-manifest.c947eda657f2e905c0e2272eeff46cbd.js": "/yossishemiportfolio/precache-manifest.c947eda657f2e905c0e2272eeff46cbd.js",
     "service-worker.js": "/yossishemiportfolio/service-worker.js",
-    "static/css/main.3538e1b0.chunk.css.map": "/yossishemiportfolio/static/css/main.3538e1b0.chunk.css.map",
+    "static/css/main.08a7e7ca.chunk.css.map": "/yossishemiportfolio/static/css/main.08a7e7ca.chunk.css.map",
     "static/js/2.77176816.chunk.js.LICENSE.txt": "/yossishemiportfolio/static/js/2.77176816.chunk.js.LICENSE.txt",
     "static/media/backgammonProject.png": "/yossishemiportfolio/static/media/backgammonProject.27a42184.png",
-    "static/media/couponSystemProject.png": "/yossishemiportfolio/static/media/couponSystemProject.0df134ac.png",
+    "static/media/couponSystemProject.png": "/yossishemiportfolio/static/media/couponSystemProject.b20b9539.png",
     "static/media/galaxy.png": "/yossishemiportfolio/static/media/galaxy.649a629b.png",
     "static/media/logo.png": "/yossishemiportfolio/static/media/logo.3aac835f.png",
     "static/media/manOnTable.svg": "/yossishemiportfolio/static/media/manOnTable.52be3144.svg",
@@ -23,7 +23,7 @@
   "entrypoints": [
     "static/js/runtime-main.a19d1181.js",
     "static/js/2.77176816.chunk.js",
-    "static/css/main.3538e1b0.chunk.css",
-    "static/js/main.d126883b.chunk.js"
+    "static/css/main.08a7e7ca.chunk.css",
+    "static/js/main.1e17f3a6.chunk.js"
   ]
 }
