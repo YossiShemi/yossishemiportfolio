@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1ee30e4e13cf7a678e8bb64774fc2f9e",
+    "revision": "b08b2a406e2a5c92e42434b221f581b4",
     "url": "/yossishemiportfolio/index.html"
   },
   {
-    "revision": "b6de24a9fa290d01209e",
-    "url": "/yossishemiportfolio/static/css/main.d54117e3.chunk.css"
+    "revision": "02bb685511647894318c",
+    "url": "/yossishemiportfolio/static/css/main.68bbdbfb.chunk.css"
   },
   {
     "revision": "cfd221da106cb37be681",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/yossishemiportfolio/static/js/2.77176816.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b6de24a9fa290d01209e",
-    "url": "/yossishemiportfolio/static/js/main.1e17f3a6.chunk.js"
+    "revision": "02bb685511647894318c",
+    "url": "/yossishemiportfolio/static/js/main.55aa3f99.chunk.js"
   },
   {
     "revision": "2ac17f67c5f8648da7b9",
@@ -28,8 +28,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/yossishemiportfolio/static/media/backgammonProject.27a42184.png"
   },
   {
-    "revision": "b20b95394990e51ec2da530d1f5786ec",
-    "url": "/yossishemiportfolio/static/media/couponSystemProject.b20b9539.png"
+    "revision": "95b67b8bb92025dbdb65378c4bda05de",
+    "url": "/yossishemiportfolio/static/media/couponSystemProject.95b67b8b.png"
   },
   {
     "revision": "649a629b89a38f7554c3aa7350bd6476",
